@@ -1,3 +1,4 @@
+'''
 == Get Weather Data ==
 This is a simple example for data gathering and analysis in Python. 
 
