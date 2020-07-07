@@ -6,4 +6,4 @@ In this notebook, we will gather weather data according to the tutorial presente
 
 You can also check on the docs folder in the main tree of this file to see further references in the topic.
 
-[Run Jupyter Notebook]()
+[Run Jupyter Notebook](https://mybinder.org/v2/gh/sinpantuflas/get-weather.git/master?filepath=Get-Weather-Data.ipynb)
